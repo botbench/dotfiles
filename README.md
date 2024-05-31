@@ -1,6 +1,6 @@
 # dotfiles
 
-Juanlu's personal dotfiles for Linux and MacOS, based on GNU Stow
+Xander's personal dotfiles for Linux and MacOS, based on GNU Stow
 
 ## Requirements
 
